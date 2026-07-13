@@ -11,3 +11,8 @@ This repository contains my Week 1 capstone project for the FlyRank AI Internshi
 
 ## Goal
 Learn AI-assisted development and Git workflow.
+## Installation
+
+1. Install Node.js
+2. Install Git
+3. Open the project in VS Code
