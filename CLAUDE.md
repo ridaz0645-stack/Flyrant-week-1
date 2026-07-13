@@ -9,3 +9,7 @@
 - Keep code clean and readable
 - Prefer async/await
 - Add comments when necessary
+## Best Practices
+
+- Write meaningful commit messages.
+- Keep code simple and readable.
