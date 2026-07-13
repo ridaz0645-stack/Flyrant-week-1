@@ -11,8 +11,38 @@ This repository contains my Week 1 capstone project for the FlyRank AI Internshi
 
 ## Goal
 Learn AI-assisted development and Git workflow.
-## Installation
 
-1. Install Node.js
-2. Install Git
-3. Open the project in VS Code
+## Getting Started
+
+### Prerequisites
+- Node.js (LTS)
+- Git
+- VS Code
+
+### Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/ridaz0645-stack/Flyrant-week-1.git
+cd Flyrant-week-1
+```
+
+2. Verify installation
+
+```bash
+node --version
+git --version
+```
+
+3. Open the project
+
+```bash
+code .
+```
+
+## Next Steps
+
+- Review `CLAUDE.md`
+- Follow Conventional Commits
+- Continue the FlyRank capstone
